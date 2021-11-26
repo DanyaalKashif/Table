@@ -1,0 +1,36 @@
+
+  .table-row{
+      display: table-row;
+  }
+
+  .table{
+        display: table; 
+  }
+
+  .table-cell{
+      display: table-cell;
+      padding: 15px;
+      width: 193px;
+  }
+
+  .h{
+      background-color: rgb(229, 229, 229);
+  }
+
+  .green{
+      background-color: #a4ffa4;
+      color: #21b926;
+      border-radius: 10px;
+      width: 68px;
+      text-align: center;
+  }
+
+  .icon{
+      width: 15px;
+      height: 15px;
+      border-radius: 100%;
+      background-color: hotpink;
+      float: left;
+      margin-top: 2px;
+      margin-left: 6px;
+  }
